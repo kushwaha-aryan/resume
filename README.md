@@ -1,2 +1,2 @@
 Link : 
-<a href="https://kushwaha-aryan.github.io/resume/" target="_blank">Resume</a>
+<a target="_blank" href="https://kushwaha-aryan.github.io/resume/">Resume</a>
